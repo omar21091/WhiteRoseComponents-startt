@@ -1,0 +1,13 @@
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "outputDirectory": "dist",
+  "env": {
+    "RESEND_API_KEY": "@resend_api_key"
+  },
+  "functions": {
+    "api/**/*.ts": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
