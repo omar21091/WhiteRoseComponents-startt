@@ -82,9 +82,6 @@ export default function Collection() {
 
                   {/* Info */}
                   <div className="p-3">
-                    <p className="font-body text-[10px] text-muted-foreground mb-1 flex items-center gap-1">
-                      <Tag className="w-3 h-3" /> {item.sku}
-                    </p>
                     <h3 className="font-display text-sm font-bold text-foreground leading-tight mb-1">
                       {item.title}
                     </h3>

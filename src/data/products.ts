@@ -1,43 +1,43 @@
 // Using images from public folder - Bed & sofa components Pictures
 // These are referenced directly as public assets
-const prodBrackets = "/Bed%20%26%20sofa%20components%20Pictures/Big%20brackets.jpg";
-const prodButtonNails = "/Bed%20%26%20sofa%20components%20Pictures/button%20nails.jpg";
-const prodCastors = "/Bed%20%26%20sofa%20components%20Pictures/caster.jpg";
-const prodInsertEdge = "/Bed%20%26%20sofa%20components%20Pictures/Insert%20%28with%20edga%29.jpg";
-const prodInserts = "/Bed%20%26%20sofa%20components%20Pictures/Insert.jpg";
-const prodHingeSingle = "/Bed%20%26%20sofa%20components%20Pictures/Iron%20hinges%20%282%20holes%29.png";
-const prodHinges = "/Bed%20%26%20sofa%20components%20Pictures/Iron%20hinges%20set.jpg";
-const prodLLegs = "/Bed%20%26%20sofa%20components%20Pictures/L%20shape%20legs.jpg";
-const prodLinkingBar = "/Bed%20%26%20sofa%20components%20Pictures/linking%20bar.jpg";
-const prodBolts = "/Bed%20%26%20sofa%20components%20Pictures/M8%20%26%20M5%20Bolt.jpg";
-const prodMattressTape = "/Bed%20%26%20sofa%20components%20Pictures/mattress%20tape.jpg";
-const prodMetalSofaLegs = "/Bed%20%26%20sofa%20components%20Pictures/Metal%20sofa%20legs%20set.jpg";
-const prodUClips = "/Bed%20%26%20sofa%20components%20Pictures/Metal%20U%20clip%20%26%20Plastic%20U%20clip.jpg";
-const prodWoodSofaLegs = "/Bed%20%26%20sofa%20components%20Pictures/Metal%2Bwood%20sofa%20legs%20set.jpg";
-const prodOnepieceBolt = "/Bed%20%26%20sofa%20components%20Pictures/One%20piece%20bolt.jpg";
-const prodPipeLegs = "/Bed%20%26%20sofa%20components%20Pictures/Pipe%20legs.jpg";
-const prodCornerEdge = "/Bed%20%26%20sofa%20components%20Pictures/Plastic%20Drawer%20corner%20%28edga%29.jpg";
-const prodPlasticHinge = "/Bed%20%26%20sofa%20components%20Pictures/plastic%20hinges.png";
-const prodPlasticWasher = "/Bed%20%26%20sofa%20components%20Pictures/plastic%20wahser.jpg";
-const prodSmallBrackets = "/Bed%20%26%20sofa%20components%20Pictures/Small%20brackets.jpg";
-const prodSofaHinges = "/Bed%20%26%20sofa%20components%20Pictures/sofa%20hinges.jpg";
-const prodSofaLegs = "/Bed%20%26%20sofa%20components%20Pictures/sofa%20legs.jpg";
-const prodStarSofaLegs = "/Bed%20%26%20sofa%20components%20Pictures/Star%20sofa%20legs.jpg";
-const prodTSofaLegs = "/Bed%20%26%20sofa%20components%20Pictures/T%20sofa%20leg%28Angle%29.jpg";
-const prodTNut = "/Bed%20%26%20sofa%20components%20Pictures/T%20nut.jpg";
-const prodWasher = "/Bed%20%26%20sofa%20components%20Pictures/wahser.jpg";
+const prodBrackets = "/Bed & sofa components Pictures/Big brackets.jpg";
+const prodButtonNails = "/Bed & sofa components Pictures/button nails.jpg";
+const prodCastors = "/Bed & sofa components Pictures/caster.jpg";
+const prodInsertEdge = "/Bed & sofa components Pictures/Insert (with edga).jpg";
+const prodInserts = "/Bed & sofa components Pictures/Insert.jpg";
+const prodHingeSingle = "/Bed & sofa components Pictures/Iron hinges (2 holes).png";
+const prodHinges = "/Bed & sofa components Pictures/Iron hinges set.jpg";
+const prodLLegs = "/Bed & sofa components Pictures/L shape legs.jpg";
+const prodLinkingBar = "/Bed & sofa components Pictures/linking bar.jpg";
+const prodBolts = "/Bed & sofa components Pictures/M8 & M5 Bolt.jpg";
+const prodMattressTape = "/Bed & sofa components Pictures/mattress tape.jpg";
+const prodMetalSofaLegs = "/Bed & sofa components Pictures/Metal sofa legs set.jpg";
+const prodUClips = "/Bed & sofa components Pictures/Metal U clip & Plastic U clip.jpg";
+const prodWoodSofaLegs = "/Bed & sofa components Pictures/Metal+wood sofa legs set.jpg";
+const prodOnepieceBolt = "/Bed & sofa components Pictures/One piece bolt.jpg";
+const prodPipeLegs = "/Bed & sofa components Pictures/Pipe legs.jpg";
+const prodCornerEdge = "/Bed & sofa components Pictures/Plastic Drawer corner (edga).jpg";
+const prodPlasticHinge = "/Bed & sofa components Pictures/plastic hinges.png";
+const prodPlasticWasher = "/Bed & sofa components Pictures/plastic wahser.jpg";
+const prodSmallBrackets = "/Bed & sofa components Pictures/Small brackets.jpg";
+const prodSofaHinges = "/Bed & sofa components Pictures/sofa hinges.jpg";
+const prodSofaLegs = "/Bed & sofa components Pictures/sofa legs.jpg";
+const prodStarSofaLegs = "/Bed & sofa components Pictures/Star sofa legs.jpg";
+const prodTSofaLegs = "/Bed & sofa components Pictures/T sofa leg(Angle).jpg";
+const prodTNut = "/Bed & sofa components Pictures/T nut.jpg";
+const prodWasher = "/Bed & sofa components Pictures/wahser.jpg";
 
 // Sofa elastic webbing images
-const webbing1 = "/Bed%20%26%20sofa%20components%20Pictures/Sofa%20elastic%20webbing/1.jpg";
-const webbing2 = "/Bed%20%26%20sofa%20components%20Pictures/Sofa%20elastic%20webbing/2.jpg";
-const webbing3 = "/Bed%20%26%20sofa%20components%20Pictures/Sofa%20elastic%20webbing/3.jpg";
-const webbing4 = "/Bed%20%26%20sofa%20components%20Pictures/Sofa%20elastic%20webbing/4.jpg";
-const webbing5 = "/Bed%20%26%20sofa%20components%20Pictures/Sofa%20elastic%20webbing/5.jpg";
-const webbing6 = "/Bed%20%26%20sofa%20components%20Pictures/Sofa%20elastic%20webbing/6.jpg";
-const webbing7 = "/Bed%20%26%20sofa%20components%20Pictures/Sofa%20elastic%20webbing/7.jpg";
-const webbing8 = "/Bed%20%26%20sofa%20components%20Pictures/Sofa%20elastic%20webbing/8.jpg";
-const webbing9 = "/Bed%20%26%20sofa%20components%20Pictures/Sofa%20elastic%20webbing/9.jpg";
-const webbing10 = "/Bed%20%26%20sofa%20components%20Pictures/Sofa%20elastic%20webbing/10.jpg";
+const webbing1 = "/Bed & sofa components Pictures/Sofa elastic webbing/1.jpg";
+const webbing2 = "/Bed & sofa components Pictures/Sofa elastic webbing/2.jpg";
+const webbing3 = "/Bed & sofa components Pictures/Sofa elastic webbing/3.jpg";
+const webbing4 = "/Bed & sofa components Pictures/Sofa elastic webbing/4.jpg";
+const webbing5 = "/Bed & sofa components Pictures/Sofa elastic webbing/5.jpg";
+const webbing6 = "/Bed & sofa components Pictures/Sofa elastic webbing/6.jpg";
+const webbing7 = "/Bed & sofa components Pictures/Sofa elastic webbing/7.jpg";
+const webbing8 = "/Bed & sofa components Pictures/Sofa elastic webbing/8.jpg";
+const webbing9 = "/Bed & sofa components Pictures/Sofa elastic webbing/9.jpg";
+const webbing10 = "/Bed & sofa components Pictures/Sofa elastic webbing/10.jpg";
 const webbing11 = "/Bed & sofa components Pictures/Sofa elastic webbing/11.jpg";
 const webbing12 = "/Bed & sofa components Pictures/Sofa elastic webbing/12.jpg";
 const webbing13 = "/Bed & sofa components Pictures/Sofa elastic webbing/13.jpg";
@@ -204,6 +204,7 @@ export const products: Product[] = [
     title: "Iron Hinge (Single)",
     category: "Hinges",
     collection: "Accessories & Tools",
+    image: prodHingeSingle,
     shortDesc: "Single 4-hole flat iron hinge. Zinc-plated finish for corrosion resistance.",
     description:
       "A versatile single flat iron hinge with four fixing holes for secure fastening. Zinc-plated to prevent corrosion, suitable for lightweight panel joints, access hatches and decorative lid applications across bed and sofa manufacturing.",

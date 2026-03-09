@@ -155,10 +155,6 @@ export default function ProductDetailPage() {
             <h1 className="font-display text-4xl md:text-5xl font-black text-foreground mb-3 leading-tight">
               {product.title}
             </h1>
-            <div className="flex items-center gap-2 mb-5">
-              <Tag className="w-4 h-4 text-muted-foreground" />
-              <span className="font-body text-sm text-muted-foreground">{product.sku}</span>
-            </div>
             <p className="font-body text-lg text-muted-foreground leading-relaxed mb-8">
               {product.description}
             </p>
@@ -355,7 +351,6 @@ export default function ProductDetailPage() {
                     <img src={item.image} alt={item.title} className="w-full h-full object-contain p-4 group-hover:scale-105 transition-transform duration-300" />
                   </div>
                   <div className="p-3">
-                    <p className="font-body text-[10px] text-muted-foreground mb-0.5">{item.sku}</p>
                     <h3 className="font-display text-sm font-bold text-foreground">{item.title}</h3>
                     <div className="mt-2 flex items-center gap-1 text-primary text-xs font-semibold group-hover:gap-2 transition-all">
                       View <ArrowRight className="w-3 h-3" />

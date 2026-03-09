@@ -69,9 +69,6 @@ export default function HardwareCollection() {
 
               {/* Info */}
               <div className="p-3">
-                <p className="font-body text-[10px] text-muted-foreground mb-1 flex items-center gap-1">
-                  <Tag className="w-3 h-3" /> {item.sku}
-                </p>
                 <h3 className="font-display text-sm font-bold text-foreground leading-tight mb-1">{item.title}</h3>
                 <p className="font-body text-[11px] text-muted-foreground leading-relaxed line-clamp-2">{item.shortDesc}</p>
                 <div className="mt-2 flex items-center gap-1 text-primary font-body text-[11px] font-semibold group-hover:gap-2 transition-all">
